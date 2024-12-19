@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "./app.module.css";
-import Task from "./components/task";
+import Task from "./components/Task";
 
 const URL = "https://to-do-api-16y6.onrender.com"; 
 
